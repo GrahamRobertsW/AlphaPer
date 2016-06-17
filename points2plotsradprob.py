@@ -8,7 +8,7 @@ con=psycopg2.connect("dbname='stars' user='postgres' host='localhost'")
 cur=con.cursor()
 def rdist(x,y,xm,ym):
     return (np.sqrt((x-xm)**2+(y-ym)**2))
-cur.execute("select raj2000, dej2000, pmra, pmde, pgr, pgpm, _2mkey from conditionals")
+cur.execute("select raj2000, dej2000, pmra, pmde, pgr, pgpm, _2mkey from nconditionals")
 data=cur.fetchall()
 ra=np.array([datum[0] for datum in data])
 de=np.array([datum[1] for datum in data])

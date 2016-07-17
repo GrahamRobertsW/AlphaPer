@@ -1,0 +1,40 @@
+C.D.S.  -  SIMBAD4 rel 1.5.6  -  2016.07.12CEST23:49:16
+
+Cl Melotte 20 716
+-----------------
+
+Object Cl* Melotte 20 AP 50  ---  *iC  ---  OID=@142441   (@@122594,6)  ---  coobox=2757
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 26 42.3689  +49 00 34.219 (~) B [103.49 56.49 90] 1998A&A...335L..65H
+Coordinates(FK5,ep=J2000,eq=2000): 03 26 42.369  +49 00 34.22 
+Coordinates(FK4,ep=B1950,eq=1950): 03 23 08.78  +48 50 07.5   
+Coordinates(Gal,ep=J2000,eq=2000): 147.3696  -06.3535         
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 16.90 -13.10 [3.40 1.60 90] B 1998A&A...335L..65H
+Parallax: ~ [~] ~ ~                  
+Radial Velocity: ~ [~ ~ ~] ~ ~                  
+Redshift: ~ [~ ~ ~] ~ ~                  
+cz: ~ [~ ~ ~] ~ ~                  
+Flux B : 11.64 [~] C ~                  
+Flux V : 10.44 [~] C ~                  
+Flux J : 8.206 [0.024] C 2003yCat.2246....0C
+Flux H : 7.64 [0.046] C 2003yCat.2246....0C
+Flux K : 7.481 [0.024] C 2003yCat.2246....0C
+Spectral type: ~ ~ ~
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~~ ~ ~
+
+Identifiers (6):
+   2MASS J03264235+4900344         Cl Melotte 20 716               TYC 3320-39-1                 
+   GSC 03320-00039                 Cl* Melotte 20 AP 50            GEN# +5.20201550              
+
+Bibcodes  1850-2016 () (4):
+  1992AJ....103..488P  1985ApJ...289..247S  1960ApJ...132...68M  1956AN....283..109H
+
+Measures (UBV:1  ):
+UBV:1
+
+Notes (0) :
+
+================================================================================
+

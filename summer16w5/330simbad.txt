@@ -1,0 +1,42 @@
+C.D.S.  -  SIMBAD4 rel 1.5.6  -  2016.07.12CEST23:47:45
+
+Cl Melotte 20 330
+-----------------
+
+Object BD+47 797  ---  *iC  ---  OID=@141537   (@@1078,6)  ---  coobox=2756
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 17 05.5884  +47 37 43.777 (~) B [44.74 28.50 0] 1998A&A...335L..65H
+Coordinates(FK5,ep=J2000,eq=2000): 03 17 05.588  +47 37 43.78 
+Coordinates(FK4,ep=B1950,eq=1950): 03 13 36.82  +47 26 45.8   
+Coordinates(Gal,ep=J2000,eq=2000): 146.7839  -08.3838         
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 12.8 -31.2 [1.8 1.7 90] B 2000A&A...355L..27H
+Parallax: ~ [~] ~ ~                  
+Radial Velocity: ~ [~ ~ ~] ~ ~                  
+Redshift: ~ [~ ~ ~] ~ ~                  
+cz: ~ [~ ~ ~] ~ ~                  
+Flux B : 11.2 [~] C ~                  
+Flux V : 9.96 [~] C ~                  
+Flux J : 7.438 [0.026] C 2003yCat.2246....0C
+Flux H : 6.832 [0.046] C 2003yCat.2246....0C
+Flux K : 6.652 [0.021] C 2003yCat.2246....0C
+Spectral type: G9III: C ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~~ ~ ~
+
+Identifiers (7):
+   2MASS J03170558+4737437         BD+47 797                       GEN# +5.20200330              
+   GSC 03315-00726                 TYC 3315-726-1                  uvby98 520200330              
+   Cl Melotte 20 330                                                                             
+
+Bibcodes  1850-2016 () (6):
+  2015A&A...580A..23P  1998A&AS..129..431H  1992AJ....103..488P  1989A&AS...81...47T
+  1960ApJ...132...68M  1956AN....283..109H                        
+
+Measures (Hbet1:2  MK:1  UBV:1  uvby1:2  ):
+Hbet1:2MK:1UBV:1uvby1:2
+
+Notes (0) :
+
+================================================================================
+

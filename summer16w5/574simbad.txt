@@ -1,0 +1,45 @@
+C.D.S.  -  SIMBAD4 rel 1.5.6  -  2016.07.12CEST23:48:29
+
+Cl Melotte 20 574
+-----------------
+
+Object HD 232784  ---  *iC  ---  OID=@180122   (@@1427,9)  ---  coobox=2682
+
+Coordinates(ICRS,ep=J2000,eq=2000): 03 23 35.11484  +50 39 52.4092 (Opt ) A [9.23 8.69 122] 2007A&A...474..653V
+Coordinates(FK5,ep=J2000,eq=2000): 03 23 35.115  +50 39 52.41 
+Coordinates(FK4,ep=B1950,eq=1950): 03 19 58.63  +50 29 15.4   
+Coordinates(Gal,ep=J2000,eq=2000): 146.0243  -05.2577         
+hierarchy counts: #parents=0, #children=0, #siblings=0
+Proper motions: 15.30 -20.59 [1.05 0.99 0] A 2007A&A...474..653V
+Parallax: 4.49 [1.13] A 2007A&A...474..653V
+Radial Velocity: 4.82 [0.4] A 2005A&A...430..165F
+Redshift: 0.000016 [0.000001] A 2005A&A...430..165F
+cz: 4.82 [0.40] A 2005A&A...430..165F
+Flux B : 10.23 [~] C ~                  
+Flux V : 8.99 [~] C ~                  
+Flux J : 6.695 [0.020] C 2003yCat.2246....0C
+Flux H : 6.154 [0.023] C 2003yCat.2246....0C
+Flux K : 6.000 [0.023] C 2003yCat.2246....0C
+Spectral type: K0III D ~                  
+Morphological type: ~ ~ ~
+Angular size:     ~     ~   ~~ ~ ~
+
+Identifiers (15):
+   2MASS J03233511+5039523         AG+50 360                       BD+50 751                     
+   FBFTA Per I 27                  GEN# +5.20200574                GSC 03324-00739               
+   HD 232784                       HIC 15798                       HIP 15798                     
+   PPM 28436                       SAO 24001                       TYC 3324-739-1                
+   UBV 3238                        YZ 50 1472                      Cl Melotte 20 574             
+
+Bibcodes  1850-2016 () (10):
+  2012A&A...546A..61D  2012MNRAS.427..343M  2011MNRAS.411..435B  2006AstL...32..759G
+  2005A&A...430..165F  1994BaltA...3..348D  1992AJ....103..488P  1987A&AS...68..515F
+  1960ApJ...132...68M  1956AN....283..109H                        
+
+Measures (oRV:1  PLX:2  PM:1  pos:1  posa:1  SAO:1  UBV:1  velocities:2  ):
+oRV:1PLX:2PM:1pos:1posa:1SAO:1UBV:1velocities:2
+
+Notes (0) :
+
+================================================================================
+

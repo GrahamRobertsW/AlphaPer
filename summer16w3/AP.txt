@@ -1,0 +1,8 @@
+51.75D	Cluster Center RA	deg
+49.12D	Cluster Center DEC	deg
+0.8D	Cluster Scale Radius	deg
+22.73D	Cluster PMRA		mas/yr
+-26.51D	Cluster PMDE		mas/yr
+1.0D	Cluster PM dispersion	mas/yr
+2.0D	Slope of field dist	stars/deg2/deg
+6.2D	Cluster DM		mag
